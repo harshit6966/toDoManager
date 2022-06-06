@@ -1,3 +1,4 @@
+import TaskSubtype from '@salesforce/schema/Task.TaskSubtype';
 import { LightningElement, track } from 'lwc';
 
 export default class ToDoManager extends LightningElement {
